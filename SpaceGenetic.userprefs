@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerMover.cs">
+    <Files>
+      <File FileName="..\creatures\Assets\Scipts\Eyesight.cs" Line="1" Column="1" />
+      <File FileName="..\creatures\Assets\Scipts\ThinkerMeatEater.cs" Line="1" Column="1" />
+      <File FileName="..\creatures\Assets\Scipts\ThinkerPlantEater.cs" Line="1" Column="1" />
+      <File FileName="..\creatures\Assets\Scipts\Creature.cs" Line="1" Column="1" />
+      <File FileName="..\creatures\Assets\Scipts\CreatureGenerator.cs" Line="17" Column="38" />
+      <File FileName="..\creatures\Assets\Scipts\myUI.cs" Line="1" Column="1" />
+      <File FileName="..\creatures\Assets\Scipts\PlantCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerMover.cs" Line="16" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\work\creatures\Assets\Scipts\Attaker.cs" line="6" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
