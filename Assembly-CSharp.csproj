@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{B22BF6C0-9FCB-48B9-D1BA-0C347BDEC4BC}</ProjectGuid>
+	<ProjectGuid>{083B9369-810C-26D1-9A8D-CC15601F345C}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,7 +46,16 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\PlayerMover.cs" />
+     <Compile Include="Assets\Scripts\Attacker.cs" />
+     <Compile Include="Assets\Scripts\BulletController.cs" />
+     <Compile Include="Assets\Scripts\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\Eyesight.cs" />
+     <Compile Include="Assets\Scripts\HpMeneger.cs" />
+     <Compile Include="Assets\Scripts\Logic.cs" />
+     <Compile Include="Assets\Scripts\Mover.cs" />
+     <Compile Include="Assets\Scripts\PlayerMover.cs" />
+     <Compile Include="Assets\Scripts\Singleton.cs" />
+     <Compile Include="Assets\Scripts\Utils.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
