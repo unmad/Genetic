@@ -48,14 +48,19 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Attacker.cs" />
      <Compile Include="Assets\Scripts\BulletController.cs" />
-     <Compile Include="Assets\Scripts\EnemyController.cs" />
      <Compile Include="Assets\Scripts\Eyesight.cs" />
+     <Compile Include="Assets\Scripts\Game.cs" />
+     <Compile Include="Assets\Scripts\GameMod_1_LevelGenerator.cs" />
+     <Compile Include="Assets\Scripts\GameMod_2_LevelGenerator.cs" />
      <Compile Include="Assets\Scripts\HpMeneger.cs" />
      <Compile Include="Assets\Scripts\Logic.cs" />
+     <Compile Include="Assets\Scripts\Mod1EnemyController.cs" />
      <Compile Include="Assets\Scripts\Mover.cs" />
      <Compile Include="Assets\Scripts\PlayerMover.cs" />
      <Compile Include="Assets\Scripts\Singleton.cs" />
+     <Compile Include="Assets\Scripts\UIMapController.cs" />
      <Compile Include="Assets\Scripts\Utils.cs" />
+     <Compile Include="Assets\Scripts\WorldGenerator.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
